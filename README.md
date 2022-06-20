@@ -1,6 +1,6 @@
 ## Nextcloud 3 level of users
 
-<img src="images/nextcloud.png" width="500px" height="500px">
+<img src="images/nextcloud.png" width="1000px" height="500px">
 
 **Nextcloud** es una serie de programas cliente-servidor que permiten la creación de servicios de alojamiento de archivos. Su funcionalidad es similar al software Dropbox, aunque Nextcloud en su totalidad de código abierto. Nextcloud permite a los usuarios crear servidores privados.
 
