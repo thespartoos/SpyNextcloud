@@ -2,14 +2,14 @@
 
 <div align="center"><img src="images/nextcloud.png" align="center" width="600px"></div><br>
 
-**Nextcloud** es una serie de programas cliente-servidor que permiten la creación de servicios de alojamiento de archivos. Su funcionalidad es similar al software Dropbox, aunque Nextcloud en su totalidad de código abierto. Nextcloud permite a los usuarios crear servidores privados.
+**Nextcloud** is a series of client-server programs that allow the creation of file hosting services. Its functionality is similar to Dropbox software, although Nextcloud is entirely open source. Nextcloud allows users to create private servers.
 
-Esta herramienta consigue crear 3 niveles de usuarios simplemente jugando con las API y WebDAV de los usuarios del FileManager.
+This tool manages to create 3 levels of users by simply playing with the APIs and WebDAV of FileManager users.
 
-:warning: Esta herramienta esta diseñada para su uso en un CentOs testeado en concreto en la version (CentOs 7)
+:warning: This tool is designed for use on a CentOs tested specifically in the version (CentOs 7)
 
 ### Usage
-Para poder ejecutarla correctamente debes especificar la **url** sin la última barra al final para que no haya problemas. Hay un panel de ayuda con ejemplos para que te quede mas clara la ejecución
+In order to execute it correctly you must specify the **url** without the last slash at the end so that there are no problems. There is a help panel with examples to make the execution clearer.
 
 <img src="images/menu.png">
 
@@ -17,7 +17,7 @@ Para poder ejecutarla correctamente debes especificar la **url** sin la última 
 
 ##### SharedMode
 
-Este modo te permite que todos los archivos y carpetas de todos los usuarios se compartan al usuario administrador que tengais configurado.
+This mode allows all files and folders of all users to be shared to the administrator user you have configured.
 
 <img src="images/sharedmode.png">
 
@@ -25,7 +25,7 @@ Este modo te permite que todos los archivos y carpetas de todos los usuarios se 
 
 ##### CopyMode
 
-Este modo es "indetectable" te permite copiar todos los archivos y directorios de todos los usuarios al usuario Administrador que tengais configurado.
+This mode is "undetectable" and allows you to copy all files and directories of all users to the Administrator user you have configured.
 
 <img src="images/copymode.png">
 
